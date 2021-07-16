@@ -25,7 +25,7 @@ const second_analog = (second * 6) + 90;
 hour_hand.style.transform = `rotate(${hour_analog}deg)`;
 min_hand.style.transform = `rotate(${minute_analog}deg)`;
 second_hand.style.transform = `rotate(${second_analog}deg)`;
-console.log(`${hour_analog}:${minute_analog}:${second_analog}`);
+
 
 }
 
