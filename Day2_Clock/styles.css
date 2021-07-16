@@ -57,4 +57,5 @@ body {
 }
 .second-hand {
   background: black;
+  transition: all 0.5s;
 }
