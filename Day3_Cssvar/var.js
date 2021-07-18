@@ -22,6 +22,7 @@ img.style.filter = "blur(10px)";
 img.style.backgroundColor = `${base.value}`;
 
 function changecss(e){
+
     if(e.target.id === "spacing"){
         img.style.padding = `${spacing.value}px`;
     }else if(e.target.id === "blur"){
