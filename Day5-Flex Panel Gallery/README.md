@@ -1,13 +1,13 @@
 # Flex Panel Galley 
 
 ### 기능 ###
-* 큺릭 시 클릭한 부분 확대 및 원상 복구
+* 클릭 시 클릭한 부분 확대 및 원상 복구
 </br>
 </br>
 </br>
 
 <p align = 'center'
-![Uploading ezgif.com-gif-maker.gif…]()
+<img src = "https://user-images.githubusercontent.com/74194550/170837628-1e7c7f9d-1c8e-4ccb-9c45-cc31e9362d62.gif"></img>
 </p>
 
 `클릭 전`
