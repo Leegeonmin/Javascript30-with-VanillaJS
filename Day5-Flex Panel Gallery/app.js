@@ -3,8 +3,9 @@ function toggleOpen(e){
 }
 
 function toggleActive(e){
+    console.log(e.propertyName);
     if(e.propertyName.includes('flex')){
-        console.log(e);
+
         this.classList.toggle('clickdiv');
     }
 
