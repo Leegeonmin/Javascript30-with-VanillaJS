@@ -9,27 +9,6 @@
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74194550/170837719-8e9c5e75-a988-452b-8237-5656b8a7c8da.gif)
 
 
-`클릭 전`
-</br>
-
-![preview](./readmeimg.png)
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-`클릭 시`
-</br>
-
-![preview](./readmeimg2.png)
-
-
-
-</br>
-</br>
 </br>
 </br>
 </br>
