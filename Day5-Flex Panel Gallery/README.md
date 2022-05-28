@@ -6,9 +6,8 @@
 </br>
 </br>
 
-<p align = 'center'
-<img src = "https://user-images.githubusercontent.com/74194550/170837628-1e7c7f9d-1c8e-4ccb-9c45-cc31e9362d62.gif"></img>
-</p>
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/74194550/170837719-8e9c5e75-a988-452b-8237-5656b8a7c8da.gif)
+
 
 `클릭 전`
 </br>
